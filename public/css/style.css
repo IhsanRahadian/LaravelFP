@@ -1,0 +1,41 @@
+body {
+    background-color: #FAF9F6;
+    font-weight: 100;
+}
+
+h1 {
+    color: #343F3E;
+    font-weight: 100;
+}
+
+h2 {
+    font-weight: 100;
+}
+
+h3 {
+    font-weight: 100;
+}
+
+.register {
+    display: flex;
+    height: 1em;
+    font-size: 50px;
+}
+
+.login {
+    display: flex;
+    height: 1em;
+    font-size: 50px;
+}
+
+.loggedIn {
+    display: flex;
+    height: 1em;
+    margin: 10px 40% 50px;
+    margin-top: 50px;
+    font-size: 30px;
+}
+
+.logOut {
+    display: flex;
+}
