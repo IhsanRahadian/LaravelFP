@@ -4,6 +4,10 @@
 | Ihsan Adhika Rahadian | 5025221080 | PBKK (IUP) |
 | Zefanya Teguh Foyd Silalahi | 5025221073 | PBKK (IUP) |
 
+
+Link to explanation video on YouTube: https://www.youtube.com/watch?v=Gh6jTVcRCkk
+
+
  First, For the Website, we created the Register page and the login page.
  To test it, we make an example of the first registrant, the image is inserted below :
  ![WhatsApp Image 2024-10-15 at 23 39 06_3ddbde13](https://github.com/user-attachments/assets/69cde254-216a-4119-823c-1eb11d046dfe)
